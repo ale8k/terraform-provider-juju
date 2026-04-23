@@ -1,5 +1,5 @@
 Thanks for your interest in the Terraform Provider for Juju -- contributions like yours make good projects
-great!
+great!!
 
 Whether it is code or docs, there are two basic ways to contribute: by opening
 an issue or by creating a PR. This document gives detailed information about
